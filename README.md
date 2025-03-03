@@ -2,4 +2,4 @@
 
 Das ist mein Text.
 
-Noch ein Text.
+Das ist noch ein Text.
